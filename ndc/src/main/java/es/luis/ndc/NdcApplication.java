@@ -9,4 +9,5 @@ public class NdcApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(NdcApplication.class, args);
 	}
+	
 }
